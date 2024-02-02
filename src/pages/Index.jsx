@@ -5,38 +5,38 @@ export function loader() {
     const clientes = [
         {
             id: 1,
-            nombre: 'Juan',
+            nombre: 'Sofia',
             telefono: 102013313,
-            email: "juan@juan.com",
-            empresa: 'Codigo Con Juan'
+            email: "Sofia@gmail.com",
+            empresa: 'Empresa 1'
         },
         {
             id: 2,
             nombre: 'Karen',
             telefono: 138198313,
-            email: "karen@juan.com",
-            empresa: 'Codigo Con Juan'
+            email: "karen@gmail.com",
+            empresa: 'Empresa 2'
         },
         {
             id: 3,
             nombre: 'Josue',
             telefono: 31983913,
-            email: "josue@juan.com",
-            empresa: 'Codigo Con Juan'
+            email: "josue@gmail.com",
+            empresa: 'Empresa 3'
         },
         {
             id: 4,
             nombre: 'Miguel',
             telefono: 319381983,
-            email: "miguel@juan.com",
-            empresa: 'Codigo Con Juan'
+            email: "miguel@gmail.com",
+            empresa: 'Empresa 4'
         },
         {
             id: 5,
             nombre: 'Pedro',
             telefono: 1398198938,
-            email: "pedro@juan.com",
-            empresa: 'Codigo Con Juan'
+            email: "pedro@gmail.com",
+            empresa: 'Empresa 5'
         },
     ];
 
